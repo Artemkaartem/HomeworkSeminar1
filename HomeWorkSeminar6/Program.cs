@@ -45,7 +45,6 @@ double y = 0;
 x = (b2 - b1)/(k1 - k2);
 
 y=k1*x+b1;
- 
 Console.WriteLine($"Пересечение в точке: ({x};{y})");
 
 
